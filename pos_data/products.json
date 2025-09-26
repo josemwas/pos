@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bc93a26d",
+    "name": "Coca Cola 500ml",
+    "price": 2.5,
+    "cost": 1.5,
+    "category": "Beverages"
+  },
+  {
+    "id": "bff7363e",
+    "name": "White Bread",
+    "price": 3.0,
+    "cost": 2.0,
+    "category": "Bakery"
+  },
+  {
+    "id": "151f45e8",
+    "name": "Milk 1L",
+    "price": 4.5,
+    "cost": 3.0,
+    "category": "Dairy"
+  },
+  {
+    "id": "030f16e9",
+    "name": "Bananas (per kg)",
+    "price": 2.0,
+    "cost": 1.2,
+    "category": "Fruits"
+  },
+  {
+    "id": "a96c3942",
+    "name": "Potato Chips",
+    "price": 1.75,
+    "cost": 1.0,
+    "category": "Snacks"
+  }
+]
